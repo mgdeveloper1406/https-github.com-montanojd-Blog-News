@@ -3,16 +3,19 @@ layout: basic.liquid
 tags: common
 group: common
 
-title: Common3
+title: Prayer Before Meals
 description: Page description
-imageCover: https://picsum.photos/seed/common!common3/960/640
-imagePreview: https://picsum.photos/seed/common!common3/640/560
-imagePreviewMini: https://picsum.photos/seed/common!common3/320/240
+imageCover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BZimeJucqkFMqpum-jh92e93ukOWc3gj_w&usqp=CAU
+imagePreview: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BZimeJucqkFMqpum-jh92e93ukOWc3gj_w&usqp=CAU
+imagePreviewMini: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-BZimeJucqkFMqpum-jh92e93ukOWc3gj_w&usqp=CAU
 pubDate: 2022-07-08 09:15:41
 keywords:
 - Common3
 ---
 
-# Common3
+Prayer Before Meals
+Bless us, O Lord, and these your gifts
+which we are about to receive from your goodness.
+Through Christ our Lord.
+Amen.
 
-It works! =)
