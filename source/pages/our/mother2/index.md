@@ -5,9 +5,9 @@ group: our
 
 title: Thirty Day Prayer to the Blessed Virgin Mary
 description: Page description
-imageCover: https://www.learnreligions.com/thmb/-eze6PVFiw9afrToxeUHIvwbOFs=/3437x2578/smart/filters:no_upscale()/89173877-56a1082f3df78cafdaa832fe.jpg
-imagePreview: https://www.learnreligions.com/thmb/-eze6PVFiw9afrToxeUHIvwbOFs=/3437x2578/smart/filters:no_upscale()/89173877-56a1082f3df78cafdaa832fe.jpg
-imagePreviewMini: https://www.learnreligions.com/thmb/-eze6PVFiw9afrToxeUHIvwbOFs=/3437x2578/smart/filters:no_upscale()/89173877-56a1082f3df78cafdaa832fe.jpg
+imageCover: https://m.media-amazon.com/images/I/51xR2rWkXUL._AC_.jpg
+imagePreview: https://m.media-amazon.com/images/I/51xR2rWkXUL._AC_.jpg
+imagePreviewMini: https://m.media-amazon.com/images/I/51xR2rWkXUL._AC_.jpg
 pubDate: 2022-07-08 09:22:11
 keywords:
 - Mother2
