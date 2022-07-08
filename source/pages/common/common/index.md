@@ -5,9 +5,9 @@ group: common
 
 title: ACT OF CONTRITION
 description: Page description
-imageCover: https://www.freepik.com/premium-vector/christianity-religion-vector-icon-with-spirituals-pray-with-rising-hands-front-crucifix-arch-christian-catholic-prayers-holy-cross-symbol-faith-religious-emblem-white-background_23831898.htm
-imagePreview: https://www.freepik.com/premium-vector/christianity-religion-vector-icon-with-spirituals-pray-with-rising-hands-front-crucifix-arch-christian-catholic-prayers-holy-cross-symbol-faith-religious-emblem-white-background_23831898.htm
-imagePreviewMini: https://www.freepik.com/premium-vector/christianity-religion-vector-icon-with-spirituals-pray-with-rising-hands-front-crucifix-arch-christian-catholic-prayers-holy-cross-symbol-faith-religious-emblem-white-background_23831898.htm
+imageCover: https://media.istockphoto.com/vectors/hands-cross-prayer-logo-vector-id1345324642?k=20&m=1345324642&s=612x612&w=0&h=omoOOsWjjx-kHd200-R8hRzkxX0PcoqQLpSlTzpyFxk=
+imagePreview: https://media.istockphoto.com/vectors/hands-cross-prayer-logo-vector-id1345324642?k=20&m=1345324642&s=612x612&w=0&h=omoOOsWjjx-kHd200-R8hRzkxX0PcoqQLpSlTzpyFxk=
+imagePreviewMini: https://media.istockphoto.com/vectors/hands-cross-prayer-logo-vector-id1345324642?k=20&m=1345324642&s=612x612&w=0&h=omoOOsWjjx-kHd200-R8hRzkxX0PcoqQLpSlTzpyFxk=
 pubDate: 2022-07-08 09:07:55
 keywords:
 - Common
