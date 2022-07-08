@@ -8,7 +8,7 @@
     <meta name="description" content="a-news-blog-template-inspired-by-g-news">
     <meta name="keywords" content="bloglifestyle" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recipes</title>
+    <title>Prayers</title>
     <link rel="author" href="humans.txt" />
 
     <!-- Disable tap highlight on IE -->
@@ -187,14 +187,17 @@ Turn on JavaScript to access this site content.
         <div ctrl="" z-load="@lib/controllers/view-pager" z-options="options.pageIndicator" class="topics visible-on-ready">
 
 
-            <div data-section="breakfast" data-order="1" header-bar="">
-                Breakfast
+            <div data-section="common" data-order="1" header-bar="">
+                Common
             </div>
-            <div data-section="dessert" data-order="1" header-bar="">
-                Dessert
+            <div data-section="our" data-order="1" header-bar="">
+                Our
             </div>
-            <div data-section="meat" data-order="1" header-bar="">
-                Meat
+            <div data-section="devotions" data-order="1" header-bar="">
+                Devotions
+            </div>
+            <div data-section="rosary" data-order="1" header-bar="">
+                Rosary
             </div>
         </div>
         
@@ -301,7 +304,7 @@ Turn on JavaScript to access this site content.
                      class="content" layout="column top-stretch">
 
                 <div z-load="listview/items-list" #items-list
-                     z-options="{ section: '/pages/breakfast/index.json', lazyLoad: true }"
+                     z-options="{ section: '/pages/common/index.json', lazyLoad: true }"
                      class="visible-on-ready" style="min-height: 100vh"></div>
 
             </article><article ctrl z-load="@lib/controllers/header-auto-hide"
@@ -309,7 +312,7 @@ Turn on JavaScript to access this site content.
                      class="content" layout="column top-stretch">
 
                 <div z-load="listview/items-list" #items-list
-                     z-options="{ section: '/pages/dessert/index.json', lazyLoad: true }"
+                     z-options="{ section: '/pages/our/index.json', lazyLoad: true }"
                      class="visible-on-ready" style="min-height: 100vh"></div>
 
             </article><article ctrl z-load="@lib/controllers/header-auto-hide"
@@ -317,7 +320,15 @@ Turn on JavaScript to access this site content.
                      class="content" layout="column top-stretch">
 
                 <div z-load="listview/items-list" #items-list
-                     z-options="{ section: '/pages/meat/index.json', lazyLoad: true }"
+                     z-options="{ section: '/pages/devotions/index.json', lazyLoad: true }"
+                     class="visible-on-ready" style="min-height: 100vh"></div>
+
+            </article><article ctrl z-load="@lib/controllers/header-auto-hide"
+                     z-options="home.autoHidingBars"
+                     class="content" layout="column top-stretch">
+
+                <div z-load="listview/items-list" #items-list
+                     z-options="{ section: '/pages/rosary/index.json', lazyLoad: true }"
                      class="visible-on-ready" style="min-height: 100vh"></div>
 
             </article></div>
