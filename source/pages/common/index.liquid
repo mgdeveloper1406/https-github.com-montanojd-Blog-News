@@ -1,9 +1,0 @@
----
-title: Common
-folder: common
-tags: sections
-order: 1
-permalink: pages/common/index.json
----
-{% assign itemsList = collections[folder] | sort: 'data.pubDate' | reverse -%}
-{% include 'pages-list.json.liquid' %}
