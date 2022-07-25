@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: breakfast
 group: breakfast
 
-title: Breakfast1
+title: BLUEBERRY MUFFINS
 description: Page description
 imageCover: https://picsum.photos/seed/breakfast!breakfast1/960/640
 imagePreview: https://picsum.photos/seed/breakfast!breakfast1/640/560
