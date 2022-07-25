@@ -8,7 +8,7 @@
     <meta name="description" content="a-news-blog-template-inspired-by-g-news">
     <meta name="keywords" content="bloglifestyle" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prayers</title>
+    <title>Recipes</title>
     <link rel="author" href="humans.txt" />
 
     <!-- Disable tap highlight on IE -->
@@ -173,7 +173,7 @@ Turn on JavaScript to access this site content.
 
           
              <div class="title" layout="row center-left" header-bar="">
-                Prayers
+                Recipes
              </div>
 
         
@@ -189,6 +189,12 @@ Turn on JavaScript to access this site content.
 
             <div data-section="breakfast" data-order="1" header-bar="">
                 Breakfast
+            </div>
+            <div data-section="dessert" data-order="1" header-bar="">
+                Dessert
+            </div>
+            <div data-section="meat" data-order="1" header-bar="">
+                Meat
             </div>
         </div>
         
@@ -296,6 +302,22 @@ Turn on JavaScript to access this site content.
 
                 <div z-load="listview/items-list" #items-list
                      z-options="{ section: '/pages/breakfast/index.json', lazyLoad: true }"
+                     class="visible-on-ready" style="min-height: 100vh"></div>
+
+            </article><article ctrl z-load="@lib/controllers/header-auto-hide"
+                     z-options="home.autoHidingBars"
+                     class="content" layout="column top-stretch">
+
+                <div z-load="listview/items-list" #items-list
+                     z-options="{ section: '/pages/dessert/index.json', lazyLoad: true }"
+                     class="visible-on-ready" style="min-height: 100vh"></div>
+
+            </article><article ctrl z-load="@lib/controllers/header-auto-hide"
+                     z-options="home.autoHidingBars"
+                     class="content" layout="column top-stretch">
+
+                <div z-load="listview/items-list" #items-list
+                     z-options="{ section: '/pages/meat/index.json', lazyLoad: true }"
                      class="visible-on-ready" style="min-height: 100vh"></div>
 
             </article></div>
