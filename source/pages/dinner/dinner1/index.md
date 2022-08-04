@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: dinner
 group: dinner
 
-title: Carnivore Quiche Breakfast Muffins
+title: Carnivore Quiche Muffins
 description: Page description
 imageCover: https://ash-eats.com/wp-content/uploads/2021/07/957F1D5D-3447-4DA1-AD3A-EE464D53AD13-1-800x1000.jpg
 imagePreview: https://ash-eats.com/wp-content/uploads/2021/07/957F1D5D-3447-4DA1-AD3A-EE464D53AD13-1-800x1000.jpg
@@ -13,7 +13,7 @@ keywords:
 - Dinner1
 ---
 
-Carnivore Quiche Breakfast Muffins
+Carnivore Quiche Muffins
 
 Ingredients
 For the crust:
