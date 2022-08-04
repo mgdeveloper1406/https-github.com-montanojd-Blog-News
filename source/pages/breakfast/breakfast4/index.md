@@ -5,9 +5,9 @@ group: breakfast
 
 title: Carnivore Beef Liver Pancakes
 description: Page description
-imageCover: https://picsum.photos/seed/breakfast!breakfast4/960/640
-imagePreview: https://picsum.photos/seed/breakfast!breakfast4/640/560
-imagePreviewMini: https://picsum.photos/seed/breakfast!breakfast4/320/240
+imageCover: https://ash-eats.com/wp-content/uploads/2021/04/4-4-600x750.jpg
+imagePreview: https://ash-eats.com/wp-content/uploads/2021/04/4-4-600x750.jpg
+imagePreviewMini: https://ash-eats.com/wp-content/uploads/2021/04/4-4-600x750.jpg
 pubDate: 2022-08-03 02:24:00
 keywords:
 - Breakfast4
